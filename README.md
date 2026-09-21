@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aldo Lupio, I am a MSC student in Aeroespace Engineering, passionate about FPGA design</p>
+<p align="left">Aerospace Engineer with 1 year of professional FPGA experience within the Space Industry and a strong background in Embedded Systems. Currently majoring in Satellite Applications and NewSpace at ISAE-SUPAERO. Based in Toulouse, France</p>
 
 ###
 
